@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://44.200.255.24:8181/mylandmarktech/repository/jumia-npm-repo/"
+    "registry": "http://172.31.9.239:8181/mylandmarktech/repository/jumia-npm-repo/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
